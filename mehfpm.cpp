@@ -14,7 +14,7 @@
 #include <boost/typeof/std/string.hpp>
 #include <boost/any.hpp>
 
-#include "preforkserver.h"
+#include "preforkServer.h"
 
 using namespace std;
 using namespace boost;

@@ -1,7 +1,7 @@
-#ifndef __FCGID_HTTPD_H__
-#define __FCGID_HTTPD_H__
+#ifndef __MEHFPM_HTTPD_H__
+#define __MEHFPM_HTTPD_H__
 
-namespace fcgid
+namespace mehfpm
 {
 
 #define RESPONSE_CODES 57
